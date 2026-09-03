@@ -35,6 +35,8 @@ This line of code is the equation used to solve each integer in the Normalized A
 
     C = (np.arange(1,101) ** 3).reshape(10,10)
 
-This line of code creates the first 100 positive integers, cubes them, and reshapes the results into a 10 x 10 ndarray. The code **np.arange(1, 101)** creates the first 100 positive integers; ****3**
+This line of code creates the first 100 positive integers, cubes them, and reshapes the results into a 10x10 ndarray. The code **np.arange(1, 101)** creates the first 100 positive integers, ****3** cubes each integer as ****** means exponential, and **reshape(10,10)** reshapes the results into a 10x10 ndarray.
+
+
 
     
