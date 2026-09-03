@@ -14,7 +14,7 @@ The objective of this experiment is to hone and develop Python skills. In these 
 
 ### Code:
 
-  np.random.seed(2112)
-  X = np.random.randint(10, 101, size=(5, 5))
-  X
+    np.random.seed(2112)
+    X = np.random.randint(10, 101, size=(5, 5))
+    X
 
